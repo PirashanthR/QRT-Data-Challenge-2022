@@ -1,0 +1,5 @@
+torch
+ray[tune]
+pytorch-lightning>=1.0
+pytorch-lightning-bolts>=0.2.5
+pandas
